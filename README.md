@@ -1,3 +1,7 @@
+# Suryakant Kumar — Full-Stack Developer
+
+Software engineer in Hyderabad, India, building SaaS platforms, AI applications, and offline-first mobile experiences.
+
 <p align="center">  
 <img src="assets/banner.svg" width="100%" alt="Suryakant Kumar — Full-Stack Software Engineer. Web, mobile and applied AI." />
 </p>
