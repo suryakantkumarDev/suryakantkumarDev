@@ -28,13 +28,14 @@ Currently a **Software Engineer at WINIT**; previously at **Atomstate Technologi
 <p>Natural-language prompts to complete websites, with multiple LLM providers and structured outputs.</p>
 <p><b>Engineering:</b> RAG with document chunking, embeddings, and vector search to retrieve templates, components, and user context. Secure accounts, plan management, an admin panel, and Razorpay payments.</p>
 <p><code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>Python</code> <code>RAG</code> <code>AWS</code></p>
-<p><a href="https://portal.nextgendigitalcraft.com/">Explore product ↗</a></p>
+<p><a href="https://portal.nextgendigitalcraft.com/">Explore product ↗</a> · <a href="https://github.com/suryakantkumarDev/fsp">Backend API specs ↗</a></p>
 </td>
 <td width="50%" valign="top">
 <h3>02 / AI Interview &amp; Transcription</h3>
 <p>Live interview audio and transcripts streamed over WebSockets, supporting <b>50+ concurrent sessions</b>.</p>
-<p><b>Engineering:</b> OpenAI Whisper speech-to-text, async FastAPI services, MongoDB session and transcript storage, Docker, and automated delivery with GitHub Actions.</p>
-<p><code>React</code> <code>Next.js</code> <code>FastAPI</code> <code>Whisper</code> <code>WebSockets</code></p>
+<p><b>Engineering:</b> OpenAI Whisper & Azure Speech services, async FastAPI streaming, MongoDB session and transcript storage, Docker, and automated delivery with GitHub Actions.</p>
+<p><code>React</code> <code>Next.js</code> <code>FastAPI</code> <code>Azure Speech</code> <code>WebSockets</code></p>
+<p><a href="https://github.com/suryakantkumarDev/azure_speech">View streaming service & code ↗</a></p>
 </td>
 </tr>
 <tr>
